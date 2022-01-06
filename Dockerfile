@@ -1,2 +1,2 @@
 FROM nginx
-RUN echo "<h1>Hello my custom image!!!</h1>" > /usr/share/nginx/html/index.html
+RUN echo "<h1>Hello my custom image!!!-my version1</h1>" > /usr/share/nginx/html/index.html
